@@ -1,4 +1,4 @@
-# Project Title
+# Dash Interactive Data Visualization
 
 Interactive Dash Board App for the stake-holders
 
